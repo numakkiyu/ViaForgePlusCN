@@ -1,4 +1,4 @@
-# ViaForgePlus
+# ViaForgePlusCN
 ViaForgePlus 是面向客户端的 ViaForge 替代品，并基于 ViaForge 开发。 本存储库存储已经翻译后的 Mappings.nbt文件
 基于
 [ViaForge](https://github.com/ViaVersion/ViaForge)
