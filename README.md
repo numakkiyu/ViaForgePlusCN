@@ -8,7 +8,7 @@
 # ViaForgePlusCN
 ViaForgePlus 是面向客户端的 ViaForge 替代品，并基于 ViaForge 开发。 本存储库存储已经翻译后的 Mappings.nbt文件，基于[ViaForge](https://github.com/ViaVersion/ViaForge)修改
 
-## ViaForge 之后发生了什么变化？
+## ViaForgePlus 所拥有的更新特性
 - 1.14+ 1.5 方块潜行支持
 - 1.13+ 游泳和爬行支持
 - 1.20.4、1.20.5、1.20.6 支持
